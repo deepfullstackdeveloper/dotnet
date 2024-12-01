@@ -1,0 +1,80 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+*.tlog
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# VS Code files
+.vscode/
+
+# Rider IDE files
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Package manager files
+*.nupkg
+*.snupkg
+packages/
+
+# Configuration files
+appsettings.Development.json
+appsettings.local.json
+
+# Deployment artifacts
+*.deploy
+*.publishsettings
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Generated files
+*.generated.cs
+*.generated.js
+
+# JetBrains Rider specific
+.idea/
+
+# Visual Studio specific
+.vs/
+
+# Visual Studio Code specific
+.vscode/
+
+# Byebug history
+.byebug_history
+
+# Docker specific
+docker-compose.override.yml
+*.dockerignore
+
+# Secrets
+secrets.json
+
+# EF Migrations
+**/Migrations/*Snapshot.cs
+**/Migrations/*Snapshot.sql
